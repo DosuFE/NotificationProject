@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dot{
+                background-color: #f7cbd2;
+                background-image: radial-gradient(gray 1px, transparent 2px);
+                background-size: 20px 20px;
+                background-repeat: repeat;
+                z-index: 100px;
+}
